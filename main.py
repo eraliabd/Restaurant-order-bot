@@ -6,8 +6,8 @@ from register import check
 from messages import message_handler
 from inlines import inline_handler
 import globals
-ADMIN_ID = 1656841975
-TOKEN = "5358957794:AAGjOAwGD1cAsFTD470LsbypxhsqjMv4DSM"
+ADMIN_ID = ""
+TOKEN = ""
 
 db = Database("db-evos.db")
 
